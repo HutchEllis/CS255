@@ -6,4 +6,6 @@ One thing that was done well in this project was collecting and organizing the r
 
 One area I would revise is the Gantt chart. It was my first time making a Gantt chart but I think that I could have made it neater and easier to understand if I went back and took my time.
 
-User needs are important when designing because you want to create a system that is user-friendly.
+Understanding all requirements and needs of a project is important when designing because it ensures the project meets the expectations of DriverPass.
+
+When designing software, I would first gather requirements and analyze it. In this course I learned several different modelling types to base requirements around such as UML class diagram, use case diagram, sequence diagram. Each of these diagrams helps to give a better illustration of the system and helps to further knowledge of the system.

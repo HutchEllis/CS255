@@ -8,4 +8,4 @@ One area I would revise is the Gantt chart. It was my first time making a Gantt 
 
 Understanding all requirements and needs of a project is important when designing because it ensures the project meets the expectations of DriverPass.
 
-When designing software, I would first gather requirements and analyze it. In this course I learned several different modelling types to base requirements around such as UML class diagram, use case diagram, sequence diagram. Each of these diagrams helps to give a better illustration of the system and helps to further knowledge of the system.
+When designing software, I would first gather requirements and analyze it. In this course I learned several different modelling types to base requirements around such as UML class diagrams, use case diagrams, sequence diagrams, and activity diagrams. Each of these diagrams helps to give a better illustration of the system and helps to further knowledge of the system.
